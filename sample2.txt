@@ -2,9 +2,16 @@ touch sample2.txt
 sample2.txtというテキストファイルを作成
 
 git add sample2.txt
+コミット対象を指定
 
 git commit -m "GitとGitHubを使ってみるの課題を提出しました"
-コミットする
+メッセージを入れる
+
+gitlog
+何をコミットしたか見れる
 
 git remote add origin　https://github.com/KenichiroTokumura/samplegit.git
+ローカルとリモートの紐付け
+
+git push origin master
 プッシュ（アップロード）する
