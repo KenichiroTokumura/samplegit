@@ -1,0 +1,10 @@
+touch sample2.txt
+sample2.txtというテキストファイルを作成
+
+git add sample2.txt
+
+git commit -m "GitとGitHubを使ってみるの課題を提出しました"
+コミットする
+
+git remote add origin　https://github.com/KenichiroTokumura/samplegit.git
+プッシュ（アップロード）する
