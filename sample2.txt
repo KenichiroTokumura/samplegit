@@ -15,3 +15,5 @@ git remote add origin　https://github.com/KenichiroTokumura/samplegit.git
 
 git push origin master
 プッシュ（アップロード）する
+
+徳村兼一郎です
